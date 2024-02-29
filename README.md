@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sseleii
+- 👋 Hi, I’m Selei!
 - 👀 I’m interested in AI, business management, and coding!
 - 🌱 I’m currently learning Python and CSS.
 - 📫 How to reach me: seleicho@gmail.com
